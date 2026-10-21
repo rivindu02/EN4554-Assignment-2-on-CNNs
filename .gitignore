@@ -1,0 +1,13 @@
+# Dataset
+data/
+*.tar.gz
+*.zip
+
+# Checkpoints & cache
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# Local environments
+.venv/
+env/
