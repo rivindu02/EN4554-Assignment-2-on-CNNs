@@ -46,18 +46,4 @@ Training generates progress files (`sweep_QUICK0.json`, `task3a.json`, `task3b.j
 
 The saved final model reports **90.70% validation accuracy** and **90.08% test accuracy**. These are recorded outputs, not independently reproduced results. See the submission review for consistency checks still needed before treating the report as final.
 
-## Submission
 
-The assignment grades the **PDF**, so the notebook and this README alone are insufficient. Fill in your full name, complete the AI-use acknowledgement, resolve the checks in `SUBMISSION_REVIEW.md`, then export the saved notebook with its code, tables, figures and discussion to **`220343B_a02.pdf`**.
-
-You can export without executing training using Jupyter's PDF export, or export to HTML and print it to PDF:
-
-```bash
-jupyter nbconvert --to html EN4554_A2_CNNs.ipynb
-```
-
-Open the resulting HTML and print/save it as `220343B_a02.pdf`. Inspect every page for clipped tables, missing math, unreadable plots and omitted code. PDF export through LaTeX requires additional system dependencies. The final PDF has not been generated or visually checked in this review.
-
-## AI assistance
-
-OpenAI Codex assisted with requirement review, corrections to discussion using existing outputs, and README preparation. Complete the notebook acknowledgement with any other tools used during the assignment and their contributions.
