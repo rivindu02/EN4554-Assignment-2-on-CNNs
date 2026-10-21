@@ -2,11 +2,6 @@
 
 PyTorch experiments on CIFAR-10 covering manual backpropagation, optimizers, regularization, residual networks, and a compact final CNN.
 
-- **Index number:** 220343B
-- **Name:** Add your full name before submission.
-- **GitHub profile:** https://github.com/rivindu02
-- **Repository:** https://github.com/rivindu02/EN4554-Assignment-2-on-CNNs
-
 ## Files
 
 | File | Purpose |
